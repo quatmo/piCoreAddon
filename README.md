@@ -1,5 +1,4 @@
 # piCoreAddon
-piCorePlayer Addon
 
 Aplayer - Album Player 2.08, port: 7778
 
