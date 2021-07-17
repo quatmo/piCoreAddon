@@ -1,9 +1,18 @@
-# piCoreAddon
 
-Aplayer - Album Player 2.08, port: 7778
+### piCoreAddon 👋
 
-Aprenderer - UPnP/DLNA Renderer, port: 7779
+**Aplayer** - Album Player 2.08, port: 7778
 
-APmenu (control stop/start Aplayer, Aprenderer, Roonbridge), port: 7780
+**Aprenderer** - UPnP/DLNA Renderer, port: 7779
 
-wget -O- https://raw.githubusercontent.com/quatmo/piCoreAddon/main/ap-install.sh | sudo sh
+**APmenu** (control stop/start Aplayer, Aprenderer, Roonbridge), port: 7780
+
+###### Install
+> wget -O- https://raw.githubusercontent.com/quatmo/piCoreAddon/main/ap-install.sh | sudo sh
+> 
+
+####
+
+
+
+
