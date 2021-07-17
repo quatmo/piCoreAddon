@@ -5,7 +5,7 @@
 
 **Aprenderer** - UPnP/DLNA Renderer, port: 7779
 
-**APmenu** (control stop/start Aplayer, Aprenderer, Roonbridge), port: 7780
+**APmenu** (control stop/start for Aplayer, Aprenderer, Roonbridge), port: 7780
 
 ###### Install
 > wget -O- https://raw.githubusercontent.com/quatmo/piCoreAddon/main/ap-install.sh | sudo sh
