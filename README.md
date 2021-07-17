@@ -1,0 +1,2 @@
+# piCoreAddon
+piCorePlayer Addon
